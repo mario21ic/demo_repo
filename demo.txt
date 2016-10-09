@@ -1,7 +1,7 @@
-Hola mundO
-Git&Github
-GIT
-HUB
+Hola mundo cruel
+Git&Github xD
+GIT GIT
+HUB HUB
 PYTHON
 Java
 SQL
