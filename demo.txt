@@ -3,3 +3,8 @@ Git&Github
 GIT
 HUB
 PYTHON
+Java
+SQL
+MYSQL
+MONGODB
+ORACLE
